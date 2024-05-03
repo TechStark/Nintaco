@@ -1,2 +1,3 @@
-# Nintaco
-Nintaco is a cycle-accurate Nintendo Entertainment System (NES) / Famicom emulator and NES Sound Format (NSF) player written in Java, ostensibly making it cross-platform.
+# What is Nintaco?
+
+[Nintaco](https://nintaco.com/faq.html) is a cycle-accurate Nintendo Entertainment System (NES) / Famicom emulator and NES Sound Format (NSF) player written in Java, ostensibly making it cross-platform. It supports the vast majority of games including those for the Famicom Disk System (FDS), Dendy, VS. UniSystem, VS. DualSystem and PlayChoice-10, along with a plethora of peripherals. It tracks play history, enabling the player to rewind time to undo mistakes, and to watch, export, edit and resume play at any point in the past. It supports netplay, save states, video and audio recording, video filters, screenshots, cheat codes, a debugger and a TAS editor. It can be controlled programmatically via an API. It provides automatic capturing of sprites and level maps. It even simulates R.O.B., the Robotic Operating Buddy.
